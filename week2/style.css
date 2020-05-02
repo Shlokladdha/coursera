@@ -1,5 +1,8 @@
+body{
+font-family: "Times New Roman", Times, serif;
+}  
 h1{
-text-align:centre;
+text-align : centre;
 }
 div{
 background-color: yellow;
@@ -10,8 +13,8 @@ width: 33.33%;
 h2{
 background-color: green;
 box-sizing:border-box;
-width:40px
-height: 20px
+width:40px;
+height: 20px;
 text-align : right;
 padding:10px;
 border:1px black;
