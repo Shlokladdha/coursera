@@ -2,10 +2,10 @@ h1{
 text-align:centre;
 }
 div{
-background-color:yellow;
+background-color: yellow;
 box-sizing: border-box;
 margin: 1px black;
-width:33.33%;
+width: 33.33%;
 }	
 h2{
 background-color: green;
