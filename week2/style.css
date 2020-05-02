@@ -1,0 +1,21 @@
+div{
+background-color:gray;
+box-sizing: border-box;
+width : 33.33%;
+margin: 1px black;
+}	
+h2{
+background-color: green;
+box-sizing:border-box;
+width:40px
+height: 20px
+text-align : right;
+padding:10px;
+margin:1px black;
+}
+p{
+box-sizing:border-box;
+text-align:left;
+padding:10px;
+height: 100px
+}
