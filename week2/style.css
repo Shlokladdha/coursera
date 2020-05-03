@@ -12,10 +12,9 @@ border-color:#000000;
 border-style: solid;
 }	
 h2{
-position:relative;
-top:0px;
-right:0px;
 box-sizing: border-box;
+margin-top:0px;
+margin-right:0px;
 background-color: #FF3300;
 width:180px;
 text-align : center;
