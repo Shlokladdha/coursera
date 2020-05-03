@@ -4,7 +4,7 @@ font-family: "Times New Roman", Times, serif;
 h1{
 text-align:center;
 }
-@media (min-width:768px)and (max-width:991px){
+@media (min-width:768px) and (max-width:991px){
   .col-md-6,.col-md-12
   {
     floa:left;
@@ -43,6 +43,8 @@ border: 1px black;
 h2{
 background-color: green;
 box-sizing:border-box;
+margin-top:0px;
+margin-right:0px
 width:180px;
 text-align : right;
 padding:10px;
