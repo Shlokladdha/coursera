@@ -7,7 +7,7 @@ font-family: "Times New Roman", serif;
 h1{
   text-align:center;
 }
-div{
+div.relativity, div.quantum, div.string{
   margin:10px;
   background-color: #00FFFF;
   border:1px solid #000000;
