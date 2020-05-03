@@ -5,12 +5,13 @@ h1{
 text-align:center;
 }
 div{
-background-color: gray;
+background-color: #00FFFF;
 box-sizing: border-box;
 border: 10px black;
+margin:10px;
 }	
 h2{
-background-color: green;
+background-color: #FF3300;
 box-sizing:border-box;
 margin-top:0px;
 margin-right:0px;
