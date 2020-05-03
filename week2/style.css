@@ -37,7 +37,7 @@ p{
     height: 250px;
   }
   .col-md-6{
-    width:50%;
+    width:45%;
   }
   .col-md-12{
     width:100%;
@@ -50,7 +50,7 @@ p{
     height: 250px;
   }
   .col-lg-4{
-    width:33%;
+    width:30%;
   }
 }
 @media (max-width:767px){
