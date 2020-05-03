@@ -1,18 +1,19 @@
 body{
 font-family: "Times New Roman", Times, serif;
 }  
+*{
+  box-sizing:border-box;
+}
 h1{
 text-align:center;
 }
 div{
-box-sizing: border-box;
 background-color: #00FFFF;
 border-width: 1px;
 border-color:#000000;
 border-style: solid;
 }	
 h2{
-box-sizing: border-box;
 margin-top:0px;
 margin-right:0px;
 background-color: #FF3300;
@@ -24,14 +25,12 @@ border-color:#000000;
 border-style: solid;
 }
 p{
-box-sizing:border-box;
 text-align:left;
 padding:10px;
 }
 @media (min-width:768px) and (max-width:991px){
   .col-md-6,.col-md-12
   {
-    box-sizing:border-box;
     float:left;
     height: 250px;
     margin:2px;
@@ -46,7 +45,6 @@ padding:10px;
 @media (min-width:992px){
   .col-lg-4
   {
-    box-sizing:border-box;
     float:left;
     height: 250px;
     margin:2px;
@@ -58,7 +56,6 @@ padding:10px;
 @media (max-width:767px){
   .col-sm-12
   {
-    box-sizing:border-box;
     float:left;
     height: 250px;
     margin:2px;
