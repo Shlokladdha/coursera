@@ -15,7 +15,7 @@ div{
 }	
 h2{
   position:absolute;
-  top:0px;
+  top:-0px;
   right:0px;
   background-color: #FF3300;
   width:180px;
@@ -26,6 +26,7 @@ h2{
   border-style: solid;
 }
 p{
+  margin-top:50px;
   text-align:left;
   padding:10px;
 }
