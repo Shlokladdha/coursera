@@ -33,7 +33,7 @@ p{
 @media (min-width:768px){
   .col-md-6,.col-md-12
   {
-    border-sizing:border:box;
+    border-sizing:border-box;
     margin:10px;
     float:left;
     height: 250px;
@@ -48,7 +48,7 @@ p{
 @media (min-width:992px){
   .col-lg-4
   {
-    border-sizing:border:box;
+    border-sizing:border-box;
     margin:10px;
     float:left;
     height: 250px;
@@ -60,7 +60,7 @@ p{
 @media (max-width:767px){
   .col-sm-12
   {
-    border-sizing:border:box;
+    border-sizing:border-box;
     margin:10px;
     float:left;
     height: 250px;
