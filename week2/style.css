@@ -15,7 +15,7 @@ h2{
 background-color: #FF3300;
 box-sizing:border-box;
 margin-top:0px;
-margin-left:0px;
+margin-right:0px;
 width:180px;
 text-align : center;
 padding:10px;
@@ -33,7 +33,7 @@ padding:10px;
   {
     float:left;
     height: 250px;
-    margin:10px;
+    margin:2px;
   }
   .col-md-6{
     width:50%;
@@ -47,7 +47,7 @@ padding:10px;
   {
     float:left;
     height: 250px;
-    margin:10px;
+    margin:2px;
   }
   .col-lg-4{
     width:33.33%;
@@ -58,7 +58,7 @@ padding:10px;
   {
     float:left;
     height: 250px;
-    margin:10px;
+    margin:2px;
   }
   .col-sm-12{
     width:100%
