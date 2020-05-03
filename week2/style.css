@@ -5,15 +5,15 @@ h1{
 text-align:center;
 }
 div{
-background-color: #00FFFF;
 box-sizing: border-box;
+background-color: #00FFFF;
 border-width: 1px;
 border-color:#000000;
 border-style: solid;
 }	
 h2{
+box-sizing: border-box;
 background-color: #FF3300;
-box-sizing:border-box;
 margin-top:0px;
 margin-right:0px;
 width:180px;
