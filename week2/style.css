@@ -4,6 +4,26 @@ font-family: "Times New Roman", Times, serif;
 h1{
 text-align:center;
 }
+div{
+background-color: yellow;
+box-sizing: border-box;
+border: 1px black;
+}	
+h2{
+background-color: green;
+box-sizing:border-box;
+margin-top:0px;
+margin-right:0px
+width:180px;
+text-align : right;
+padding:10px;
+border:1px black;
+}
+p{
+box-sizing:border-box;
+text-align:left;
+padding:10px;
+}
 @media (min-width:768px) and (max-width:991px){
   .col-md-6,.col-md-12
   {
@@ -34,24 +54,4 @@ text-align:center;
   .col-sm-12{
     width:100%
   }
-}
-div{
-background-color: yellow;
-box-sizing: border-box;
-border: 1px black;
-}	
-h2{
-background-color: green;
-box-sizing:border-box;
-margin-top:0px;
-margin-right:0px
-width:180px;
-text-align : right;
-padding:10px;
-border:1px black;
-}
-p{
-box-sizing:border-box;
-text-align:left;
-padding:10px;
 }
