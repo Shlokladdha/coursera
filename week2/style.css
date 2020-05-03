@@ -8,6 +8,7 @@ h1{
   text-align:center;
 }
 div.relativity, div.quantum, div.string{
+  width:33%;
   margin:10px;
   background-color: #00FFFF;
   border:1px solid #000000;
