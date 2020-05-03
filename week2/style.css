@@ -32,7 +32,7 @@ p{
   text-align:left;
   padding:10px;
 }
-@media (min-width:768px) and (max-width:991px){
+@media screen and (min-width:768px) and (max-width:991px){
   .col-md-6,.col-md-12
   {
     float:left;
@@ -46,7 +46,7 @@ p{
     width:100%;
   }
 }
-@media (min-width:992px){
+@media screen and (min-width:992px){
   .col-lg-4
   {
     float:left;
@@ -56,7 +56,7 @@ p{
     width:33%;
   }
 }
-@media (max-width:767px){
+@media screen and (max-width:767px){
   .col-sm-12
   {
     float:left;
