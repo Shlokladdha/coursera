@@ -15,12 +15,13 @@ div{
 }	
 h2{
   position:absolute;
-  top:-0px;
+  top:0px;
   right:0px;
   background-color: #FF3300;
   width:180px;
   text-align : center;
   padding:10px;
+  margin-top:0px;
   border-width: 0px 0px 1px 1px;
   border-color:#000000;
   border-style: solid;
