@@ -8,6 +8,7 @@ h1{
   text-align:center;
 }
 div{
+  margin:10px;
   background-color: #00FFFF;
   border:1px solid #000000;
   position:relative;
