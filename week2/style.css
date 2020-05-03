@@ -11,10 +11,12 @@ div{
 margin:10px;
 background-color: #00FFFF;
 border:1px solid #000000;
+position:relative;
 }	
 h2{
-margin-top:0px;
-margin-right:-0px;
+position:absolute;
+top:0px;
+right:0px;
 background-color: #FF3300;
 width:180px;
 text-align : center;
