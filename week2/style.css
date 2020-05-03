@@ -9,6 +9,7 @@ h1{
   text-align:center;
 }
 div.relativity, div.quantum, div.string{
+  margin:10px;
   background-color: #00FFFF;
   border:1px solid #000000;
   position:relative;
@@ -42,7 +43,6 @@ p{
     width:50%;
   }
   .col-md-12{
-    margin:10px;
     width:100%;
   }
 }
@@ -53,7 +53,6 @@ p{
     height: 250px;
   }
   .col-lg-4{
-    margin:10px;
     width:33%;
   }
 }
@@ -64,7 +63,6 @@ p{
     height: 250px;
   }
   .col-sm-12{
-    margin:10px;
     width:100%;
   }
 }
