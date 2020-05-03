@@ -7,7 +7,9 @@ text-align:center;
 div{
 background-color: #00FFFF;
 box-sizing: border-box;
-border: 10px black;
+border-width: 10px;
+border-color:#000000;
+border-style: solid;
 margin:10px;
 }	
 h2{
@@ -16,9 +18,11 @@ box-sizing:border-box;
 margin-top:0px;
 margin-right:0px;
 width:180px;
-text-align : right;
+text-align : left;
 padding:10px;
-border:10px black;
+border-width: 10px;
+border-color:#000000;
+border-style: solid;
 }
 p{
 box-sizing:border-box;
