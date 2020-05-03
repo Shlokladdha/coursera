@@ -33,6 +33,7 @@ padding:10px;
   .col-md-6,.col-md-12
   {
     float:left;
+    height: 250px;
   }
   .col-md-6{
     width:50%;
@@ -45,6 +46,7 @@ padding:10px;
   .col-lg-4
   {
     float:left;
+    height: 250px;
   }
   .col-lg-4{
     width:33.33%;
@@ -54,6 +56,7 @@ padding:10px;
   .col-sm-12
   {
     float:left;
+    height: 200px;
   }
   .col-sm-12{
     width:100%
