@@ -3,7 +3,11 @@
 }
 body {
   font-family: "Times New Roman", serif;
-}  
+} 
+.theories{
+  width=100%;
+}
+  
 h1{
   text-align:center;
 }
