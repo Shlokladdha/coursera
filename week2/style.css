@@ -17,6 +17,17 @@ div.relativity, div.quantum, div.string{
   border:1px solid #000000;
   position:relative;
 }	
+div > div {
+    background-color: gray;
+    border: 1px solid;
+    float: left;
+    margin-left:2%;
+    margin-right: 2%;
+}
+
+div > div:last-child {
+   margin-right: 2%;
+}
 h2{
   position:absolute;
   top:0px;
@@ -42,10 +53,10 @@ p{
     height: 250px;
   }
   .col-md-6{
-    width:50%;
+    width:47%;
   }
   .col-md-12{
-    width:100%;
+    width:96%;
   }
 }
 @media (min-width:992px){
@@ -55,7 +66,7 @@ p{
     height: 250px;
   }
   .col-lg-4{
-    width:33.33%;
+    width:30.66%;
   }
 }
 @media (max-width:767px){
@@ -65,6 +76,6 @@ p{
     height: 250px;
   }
   .col-sm-12{
-    width:100%;
+    width:96%;
   }
 }
