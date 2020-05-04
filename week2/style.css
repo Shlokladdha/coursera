@@ -40,6 +40,7 @@ p{
   .col-md-6,.col-md-12
   {
     float:left;
+    position: relative;
     height: 250px;
   }
   .col-md-6{
@@ -53,16 +54,18 @@ p{
   .col-lg-4
   {
     float:left;
+    position:relative;
     height: 250px;
   }
   .col-lg-4{
-    width:33%;
+    width:33.33%;
   }
 }
 @media (max-width:767px){
   .col-sm-12
   {
     float:left;
+    position:relative;
     height: 250px;
   }
   .col-sm-12{
