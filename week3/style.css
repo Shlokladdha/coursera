@@ -2,9 +2,9 @@ body{
   font-size:16px;
   background-color:#99ffff;
   font-family: 'Satisfy', cursive;  
+  margin:0;
 }  
 #header-nav{
-margin:0;
 height:100px;  
 background-color:#ffff00;  
 border-radius:0;  
