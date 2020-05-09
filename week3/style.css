@@ -37,11 +37,9 @@ button div {
   width: 30px;
   height: 5px;
   background-color: #000000;
-  margin: 6px 0;
+  margin: 0px 5px;
 }
-.lastbutton{
-  margin-bottom:6px;
-}  
+
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
