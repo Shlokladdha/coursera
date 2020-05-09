@@ -33,7 +33,7 @@ button div {
   background-color: #000000;
   margin: 3px 0px 4px;
 }
- button {
+div button {
   float: right;
 }  
 
