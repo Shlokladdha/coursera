@@ -39,7 +39,7 @@ button div {
   background-color: #000000;
   margin: 6px 0;
 }
-button div: nth-child(3){
+.lastbutton{
   margin-bottom:6px;
 }  
 .navbar-brand a:hover, .navbar-brand a:focus {
