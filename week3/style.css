@@ -33,12 +33,11 @@ body {
   margin-bottom: 0;
   line-height: .75;
 }
-.navbar-toggle .icon-bar {
-  display: block;
-  width: 22px;
-  height: 2px;
-  background-color: #cccccc;
-  border-radius: 1px;
+button div {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
