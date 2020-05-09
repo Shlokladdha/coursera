@@ -34,7 +34,7 @@ button div {
   margin: 3px 0px 4px;
 }
  button span {
-  float right;
+  float: right;
 }  
 
 .navbar-brand a:hover, .navbar-brand a:focus {
