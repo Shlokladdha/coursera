@@ -12,12 +12,6 @@ body {
   border: 0;
 }
 
-#logo-img {
-  background: url('../images/restaurant-logo_large.png') no-repeat;
-  width: 150px;
-  height: 150px;
-  margin: 10px 15px 10px 0;
-}
 .navbar-brand {
   padding-top: 25px;
 }
@@ -39,6 +33,9 @@ button div {
   background-color: #000000;
   margin: 3px 0px 4px;
 }
+ button span {
+  float right;
+}  
 
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
