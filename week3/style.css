@@ -33,13 +33,13 @@ body {
   margin-bottom: 0;
   line-height: .75;
 }
-button span:nth-child(1,2) {
+button div {
   width: 30px;
   height: 5px;
   background-color: black;
   margin: 6px 0;
 }
-button span: nth-child(3)
+button div: nth-child(3)
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
