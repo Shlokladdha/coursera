@@ -64,5 +64,8 @@ div button {
   .col-xxs-12
   .col-xxs-12{
     width:100%;
+  } 
+  .middle{
+    margin-bottom:15px;
   }  
 }  
