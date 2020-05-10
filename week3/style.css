@@ -49,7 +49,11 @@ div button {
   float: right;
 } 
 
-hr.one{
+div p.styling{
+  text-color:#000000;
+}  
+
+div hr.one{
   margin:5px;
   height:2px;
   color:#000000;
