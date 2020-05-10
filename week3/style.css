@@ -49,7 +49,7 @@ div button {
   float: right;
 } 
 
-hr{
+hr.one{
   height:2px;
   color:#000000;
 }  
