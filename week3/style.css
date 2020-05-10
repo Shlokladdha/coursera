@@ -50,13 +50,11 @@ div button {
 } 
 
 hr.one{
+  margin:5px;
   height:2px;
   color:#000000;
 }  
 
-li.coloring{
-  background-color:#ffff99;
-}  
 
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
