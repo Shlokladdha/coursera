@@ -47,6 +47,10 @@ button div {
 }
 div button {
   float: right;
+} 
+
+hr{
+  size:5px;
 }  
 
 .navbar-brand a:hover, .navbar-brand a:focus {
