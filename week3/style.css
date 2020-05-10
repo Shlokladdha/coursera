@@ -50,7 +50,8 @@ div button {
 } 
 
 hr{
-  size:5px;
+  size:6px;
+  color:#000000;
 }  
 
 .navbar-brand a:hover, .navbar-brand a:focus {
