@@ -60,3 +60,9 @@ div button {
 .navbar-brand p span { /* Star-K */
   vertical-align: middle;
 }
+@media max-width:300px {
+  .col-xxs-12
+  .col-xxs-12{
+    width:100%;
+  }  
+}  
