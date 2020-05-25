@@ -8,19 +8,19 @@ header{
 
 h1{
   text-transform:uppercase;
-  text-color:#ff000;
+  color:#ff000;
   text-align:center;
 }
 
 h2{
   text-transform:uppercase;
-  text-color:#ff000;
+  color:#ff000;
 }
 
 
 section{
   background-color:#00ffff;
-  text-color:#000000;
+  color:#000000;
 }
 
 nav a{
