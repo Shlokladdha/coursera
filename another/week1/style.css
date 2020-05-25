@@ -1,1 +1,25 @@
+aside{
+  display:none;
+}
+
+header{
+  backgroung-color:#ffff00;
+}
+
+h1,h2{
+  text-transform:uppercase;
+  text-color:#ff000;
+  text-align:center;
+}
+
+section{
+  background-color:#00ffff;
+  text-color:#000000;
+}
+
+nav a{
+    backgroung-color:#ffcc00;
+}
+
+
 
