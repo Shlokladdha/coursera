@@ -6,11 +6,17 @@ header{
   backgroung-color:#ffff00;
 }
 
-h1,h2{
+h1{
   text-transform:uppercase;
   text-color:#ff000;
   text-align:center;
 }
+
+h2{
+  text-transform:uppercase;
+  text-color:#ff000;
+}
+
 
 section{
   background-color:#00ffff;
