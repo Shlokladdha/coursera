@@ -19,6 +19,8 @@ h1{
 nav a{
   opacity:0.8;
   display:inline-block;
+  text-align:center;
+  text-decoration:none;
   width:22%;
   margin:2%;
 }
