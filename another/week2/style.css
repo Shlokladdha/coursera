@@ -20,7 +20,6 @@ nav a{
   height:20px;
   padding:15px 0px;
   font-size:15px;
-  display:inline-block;
   text-align:center;
   text-decoration:none;
   width:20%;
@@ -46,6 +45,7 @@ aside img{
 
 .right{
   float:right;
+  
 }
 
 h2{
