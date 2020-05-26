@@ -9,6 +9,19 @@ header{
   margin:20px 20px 0px; 
 } 
 
+h1{
+  text-transform:uppercase;
+  color:#0066ff;
+  text-align:center;
+}
+
+nav a{
+  background-color:transparent;
+  display:inline-block;
+  width:20%;
+  margin:2%;
+}
+
 .left{
   background-image:linear-gradient(#f5fc12,#0da33f);
   width:300px;
@@ -21,26 +34,12 @@ aside img{
   margin:auto;
 }
 
-h1{
-  text-transform:uppercase;
-  color:#0066ff;
-  text-align:center;
-}
-
 h2{
   text-transform:uppercase;
   color:#0066ff;
 }
 
-
 section{
   background-color:#00ffff;
   color:#000000;
-}
-
-nav a{
-  background-color:transparent;
-  display:inline-block;
-  width:20%;
-  margin:2%;
 }
