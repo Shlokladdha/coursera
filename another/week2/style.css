@@ -35,6 +35,14 @@ nav a{
   border-radius:10px;
 }
 
+a:hover{
+  background-color:#eef08b;
+}
+
+a:active{
+  background-color:#eef08b;
+}
+
 .left{
   background-image:linear-gradient(#f5fc12,#0da33f);
   float:left;
