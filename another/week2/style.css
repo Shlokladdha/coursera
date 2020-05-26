@@ -1,7 +1,11 @@
 header{
   background-image:url("https://farm4.staticflickr.com/3948/15409853738_7dbfbfbac7_k.jpg");
   background-color:#fca903;
-}
+  background-position: center;
+  height:100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}  
 
 h1{
   text-transform:uppercase;
