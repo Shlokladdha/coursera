@@ -11,12 +11,14 @@ header{
 
 .left{
   background-image:linear-gradient(#f5fc12,#0da33f);
-  width:150px;
+  width:300px;
+  margin:0px 0px 20px 20px;
 }
 
 aside img{
-  width:100px;
-  height:100px;
+  width:200px;
+  height:200px;
+  margin: 20px auto;
 }
 
 h1{
