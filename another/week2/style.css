@@ -38,6 +38,10 @@ aside img{
   margin:20px 50px 20px;
 }
 
+.right{
+  float:right;
+}
+
 h2{
   text-transform:uppercase;
   color:#0066ff;
