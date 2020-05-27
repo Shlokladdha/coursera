@@ -103,7 +103,7 @@ table th:first-child{
 }
 
 table th{
-  border-radius:2px 2px 0px 0px;
+  border-radius:8px 8px 0px 0px;
 }
 
 table tr td{
