@@ -1,61 +1,75 @@
-body {
-padding: 10px;
-margin: 1%;
+body{
+  background-image:linear-gradient(to bottom right,#00fcec,#008ff5)  
 }
 
-header {
-background-color: #848E66;
-background-image: url("http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg");
-background-size:100%;
-padding:20px;
-}
+header{
+  background-image:url("https://farm4.staticflickr.com/3948/15409853738_7dbfbfbac7_k.jpg");
+  background-color:#fca903;
+  background-position: center;
+  height:180px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity:0.8;
+  margin:20px 20px 0px; 
+} 
 
-h1 {
-text-align: center;
-color: #FFFFFF;
-font-size: x-large;
-text-transform: uppercase;
+h1{
+  text-transform:uppercase;
+  color:#ffffff;
+  text-align:center;
+  font-weight:bold;
 }
 
 nav a{
-display: inline-block;
-margin: 2%;
-
--webkit-border-radius: 3;
--moz-border-radius: 3;
--o-border-radius: 3;
-border-radius: 5px;
-
-text-decoration: none;
-padding: 2%;
-
-color: #000000;
-text-align: center;
-vertical-align: middle;
-background-color: rgba(218,234,213,0.60);
-width:150px;
-height: 20px;
+  display:inline-block;
+  height:20px;
+  padding:15px 0px;
+  font-size:24px;
+  text-align:center;
+  text-decoration:none;
+  width:20%;
+  background-color:#ffffff;
+  opacity:0.6;
+  margin:2%;
+  border:#000000 solid 1px;
+  border-radius:10px;
 }
 
-.active {
-background-color: #FFFFFF;
+nav a{
+  color:#000000;
 }
 
-.left {
-background-color: #848E66;
-width: 24%;
-float:left;
-padding: 5% 0;
+header nav a:hover,header nav a:active{
+  background-color:#FFFF00;
 }
 
-.right {
-width:74%;
-display: inline-block;
-padding-left: 2%;
+.left{
+  background-image:linear-gradient(#f5fc12,#0da33f);
+  float:left;
+  width:300px;
+  margin:0px 0px 20px 20px;
 }
 
-.left img {
-border: solid 1px #000000;
-width: 80%;
-margin: 10%;
-} 
+aside img{
+  width:200px;
+  height:200px;
+  border:#000000 solid 1px;
+  margin:20px 50px 20px;
+}
+
+.right{
+  display:inline-block;
+  width:70%;
+  float:right;
+  padding:0px 20px 20px 0px;
+  color:#000000;
+}
+
+h2{
+  text-transform:uppercase;
+  color:#2600ff;
+}
+
+.active{
+  background-color:#FFFF00;
+}
