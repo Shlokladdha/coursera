@@ -93,6 +93,10 @@ table th{
   color:#ffffff;
 }
 
+table th:first-child{
+  text-align:left;
+}
+
 table tr td{
   text-align:center;
 }
