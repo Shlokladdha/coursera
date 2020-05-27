@@ -116,12 +116,12 @@ table tr td:first-child{
 }
 
 table tr:nth-child(even){
-  background-color: #868783;
+  background-color: #acffa6;
   opacity:0.7;
 }
 
 table tr:nth-child(2n+3){
-  background-color: #868783;
+  background-color: #acffa6;
   opacity:0.7;
 }
 
