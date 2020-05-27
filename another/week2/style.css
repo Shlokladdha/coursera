@@ -87,11 +87,6 @@ table td, table th{
   padding: 8px;
 }
 
-table tr:nth-child(n-1){
-  background-color: #868783;
-  opacity:0.7;
-}
-
 table th{
   padding:10px;
   text-align:center;
@@ -117,6 +112,16 @@ table tr td{
 
 table tr td:first-child{
   text-align:Left;
+}
+
+table tr:nth-child(even){
+  background-color: #868783;
+  opacity:0.7;
+}
+
+table tr:nth-child(2n+2){
+  background-color: #868783;
+  opacity:0.7;
 }
 
 table tr:hover {
