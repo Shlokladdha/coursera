@@ -1,5 +1,6 @@
 body{
-  background-image:linear-gradient(to bottom right,#00fcec,#008ff5)  
+  background-image:linear-gradient(to bottom right,#00fcec,#008ff5);  
+  padding:10px;
 }
 
 header{
