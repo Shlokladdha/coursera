@@ -1,77 +1,86 @@
-body{
-  background-image:linear-gradient(to bottom right,#00fcec,#008ff5)  
+body {
+font-family: aria,time new roman, serif;
+    font-size: 1.5em;
+    background-color: #B0E2FF;
 }
 
-header{
-  background-image:url("https://farm4.staticflickr.com/3948/15409853738_7dbfbfbac7_k.jpg");
-  background-color:#fca903;
-  background-position: center;
-  height:180px;
-  background-repeat: no-repeat;
+.main {
+    width:960px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: royalblue;
+    height: 205px;
+    width: auto;
+    margin:2%;
+    text-align: center;
+}
+
+header {
+   background:  url(images/flywheel.jpg) no-repeat top fixed ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
-  opacity:0.8;
-  margin:20px 20px 0px; 
-} 
-
-h1{
-  text-transform:uppercase;
-  color:#ffffff;
-  text-align:center;
-  font-weight:bold;
 }
 
-nav a{
-  display:inline-block;
-  height:20px;
-  padding:15px 0px;
-  font-size:24px;
-  text-align:center;
-  text-decoration:none;
-  width:20%;
-  background-color:#ffffff;
-  opacity:0.6;
-  margin:2%;
-  border:#000000 solid 1px;
-  border-radius:10px;
+img {
+    width: 85%;
+    height: auto;
+    display: block;
+    margin-bottom: 2%;
+    border:3px solid #000000;
+    margin: 2%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-nav a{
-  color:#000000;
+nav{
+    font-variant: small-caps;
+    font-family: Arial, "Times New Roman", serif;
+    font-size: 150%;
+    margin-right: 3%;
 }
 
-header nav a:hover,header nav a:active{
-  background-color:#FFFF00;
+nav a {
+    min-width: 8em;
+    float: left;
+    margin-right: 2em;
+    margin-left: 35px;
+    text-align: center;
+    text-decoration: none;
+    padding-bottom: 15px;
 }
 
-.left{
-  background-image:linear-gradient(#f5fc12,#0da33f);
-  float:left;
-  width:300px;
-  margin:0px 0px 20px 20px;
+nav a:link,
+nav a: visited {
+   background-color:#BFEFFF;
+   opacity: 0.1;
+    width: 20%;
+    display:inline-block;
+    padding: 0.4em;
+    margin: 0 0 0.4em 0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius:5;
+    -o-border-radius:5px;
+    border-radius: 5px;
 }
 
-aside img{
-  width:200px;
-  height:200px;
-  border:#000000 solid 1px;
-  margin:20px 50px 20px;
+section  {
+    position: absolute;
+    top: 240px;
+    right: 0;
+    width: 55em;
+    margin-bottom: 55em;
+    margin-right: 4%;
+ }
+
+aside {
+  background-color: #698B22;
+  width: 19em;
+  height: 70em;
+  margin-left: 2%;
+  margin-top: 0;
 }
-
-.right{
-  display:inline-block;
-  width:70%;
-  float:right;
-  padding:0px 20px 20px 0px;
-  color:#000000;
-}
-
-h2{
-  text-transform:uppercase;
-  color:#2600ff;
-}
-
-.active{
-  background-color:#FFFF00;
-}
-
-
