@@ -80,6 +80,7 @@ table {
   border-collapse: collapse;
   width: 100%;
   padding:10px;
+  border-radius:2px 2px 0px 0px;
 }
 
 table td, table th{
