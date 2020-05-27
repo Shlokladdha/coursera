@@ -79,7 +79,8 @@ table {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
-  padding:25px;
+  padding:10px;
+  margin:20px;
   border-radius:2px 2px 0px 0px;
 }
 
