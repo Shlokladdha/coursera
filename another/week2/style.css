@@ -53,6 +53,7 @@ header nav a:hover,header nav a:active{
 aside img{
   width:200px;
   height:200px;
+  border:#000000 solid 1px;
   margin:20px 50px 20px;
 }
 
