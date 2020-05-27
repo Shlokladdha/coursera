@@ -87,7 +87,7 @@ table td, table th{
   padding: 8px;
 }
 
-table tr{
+table tr td{
   background-color: #868783;
   opacity:0.7;
 }
