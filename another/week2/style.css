@@ -48,14 +48,14 @@ header nav a:hover,header nav a:active{
   background-image:linear-gradient(#f5fc12,#0da33f);
   float:left;
   width:300px;
-  margin:auto;
+  margin:0px 0px 20px 20px;
 }
 
 aside img{
   width:200px;
   height:200px;
   border:#000000 solid 1px;
-  margin:10px auto 10px auto;
+  margin:auto;
 }
 
 .right{
