@@ -114,13 +114,8 @@ table tr td:first-child{
   text-align:Left;
 }
 
-table tr:nth-child(even){
+table tr:nth-child(n){
   background-color: #868783;
-  opacity:0.7;
-}
-
-table tr:nth-child(odd){
-  background-color:#ffffff;
   opacity:0.7;
 }
 
