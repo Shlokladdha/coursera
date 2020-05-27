@@ -13,7 +13,7 @@ header{
   margin:20px 20px 0px; 
 } 
 
-header h1{
+h1{
   text-transform:uppercase;
   color:#ffffff;
   text-align:center;
@@ -33,6 +33,10 @@ nav a{
   margin:2%;
   border:#000000 solid 1px;
   border-radius:10px;
+}
+
+nav a{
+  color:#000000;
 }
 
 nav a:hover{
