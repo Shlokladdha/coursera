@@ -97,7 +97,7 @@ table tr td{
   text-align:center;
 }
 
-table tr td:firt-child{
+table tr td:first-child{
   text-align:Left;
 }
 
