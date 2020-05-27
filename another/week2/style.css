@@ -55,6 +55,7 @@ aside img{
   width:200px;
   height:200px;
   border:#000000 solid 1px;
+  display:block;
   margin:auto;
 }
 
