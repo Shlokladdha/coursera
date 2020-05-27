@@ -79,10 +79,11 @@ table {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
+  padding:10px;
 }
 
-table td, table th {
-  border: 1px solid #ddd;
+table td{
+  border: 2px solid #ddd;
   padding: 8px;
 }
 
@@ -91,10 +92,18 @@ table th{
   text-align:center;
   background-color: #4CAF50;
   color:#ffffff;
+  border:2px 2px 4px 2px;
+  border-color:#ffffff;
+  border-style:solid;
 }
 
 table th:first-child{
   text-align:left;
+  border-radius:2px 0px 0px 0px;
+}
+
+table th:last-child{
+  border-radius:0px 2px 0px 0px;
 }
 
 table tr td{
