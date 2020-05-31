@@ -7,6 +7,7 @@
 	<script>
 		function upDate(previewPic){
     	document.getElementById('image').innerHTML = previewPic.alt;
+			document.getElementById('image').style.background-image = url(previewPic.src);
 		}
 
 		function unDo(){
