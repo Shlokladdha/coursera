@@ -6,8 +6,9 @@
 	<link rel="stylesheet" href="gallery.css">
 	<script>
 		function upDate(previewPic){
-    	document.getElementById('image').innerHTML = previewPic.src;
-			document.getElementById('image').style.backgroundImage = "url(previewPic.src)";
+    	document.getElementById('image').innerHTML = previewPic.alt;
+			x = previewPic.src;
+			document.getElementById('image').style.backgroundImage = "url('x')";
 		}
 
 		function unDo(){
