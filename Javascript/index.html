@@ -7,10 +7,14 @@
 	<script>
 		function upDate(previewPic){
     	document.getElementById('image').innerHTML = previewPic.alt;
+			x = document.getElementById('image');
+			x.style.background = url(previewPic.src);
 		}
 
 		function unDo(){
 			document.getElementById('image').innerHTML = "Hover over an image below to display here.";
+			x = document.getElementById('image');
+			x.style.background-color = #8e68ff;
 		}
 	</script>
 </head>
